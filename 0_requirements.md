@@ -10,6 +10,10 @@
 - Transfer information can be saved for next time.
 - During transfer, user can select previours saved transfer setting.
 - User can select print result, or show result on monitor after operation.
+- One person can have several account
+- Store information about account owner.
+- Only the person above 18 years old can have an account.
+- if the person have no account, delete him/her after half year.
 
 ## Chanllenges
 - The system might be used abroad in the country in different time zone.
@@ -18,6 +22,7 @@
 
 ### API for Bank
 - Create Account
+- Create Person
 
 ### Withdraw
 - Daily Limit 300€ or 1000€
